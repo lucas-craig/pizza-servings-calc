@@ -10,8 +10,8 @@ A simple GUI project I made with Netbeans to calculate pizza servings based on t
 
 
 
-## Peter Parker honest reaction:
-![image](https://github.com/user-attachments/assets/2e5a1797-c7df-4eec-8ba0-7b4dd1ec1312)
+## Peter Parker's honest reaction:
+![image](https://github.com/user-attachments/assets/06788277-1052-4c81-a9e7-9224916d3f81)
 
 
 
