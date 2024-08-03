@@ -10,8 +10,9 @@ A simple GUI project I made with Netbeans to calculate pizza servings based on t
 
 
 
-## Peter Parker's honest reaction:
+## Peter Parker honest reaction:
 ![image](https://github.com/user-attachments/assets/06788277-1052-4c81-a9e7-9224916d3f81)
 
-
+## when you're hungry but the calculator says your 3.96 inch pizza is only enough 0.99 people:
+![image](https://github.com/user-attachments/assets/83a8842b-e776-422d-8bfe-840b2d9ee4e2)
 
